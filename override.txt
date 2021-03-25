@@ -1,0 +1,1 @@
+default:mossycobble all default_cobble.png^default_mossycobble_overlay.png
